@@ -1,0 +1,12 @@
+a  = 10
+b = 3
+
+print(a == b) # equal to
+print(a != b) # not equal to
+print(a > b) # greater than
+print(a < b) # not greater than
+print(a >= b) # greater than or equal to
+print (a <= b) # less than or equal to
+
+if a == 10:
+    print("Hello")
